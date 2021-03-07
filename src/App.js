@@ -18,8 +18,8 @@ function App() {
         >
           Learn React
         </a>
+        <Btn />
       </header>
-      <Btn />
     </div>
   );
 }
