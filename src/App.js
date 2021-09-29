@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import Btn from './Btn';
+import Text from './Text';
+
 
 function App() {
   return (
@@ -19,6 +21,7 @@ function App() {
           Learn React
         </a>
         <Btn />
+        <Text />
       </header>
     </div>
   );
