@@ -21,7 +21,7 @@ function App() {
           Learn React
         </a>
         <Btn />
-        <Text />
+        <Text color="blue" message="お元気ですか？" />
       </header>
     </div>
   );
