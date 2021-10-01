@@ -18,6 +18,7 @@ const Text = (props) => {
         <h1>こんにちは！</h1>
         <p style={contentStyle}>{props.message}</p>
         <p style={contentPinkStyle}>元気です！</p>
+        <p style={contentStyle}>{props.children}</p>        
       </div>
     );
 };

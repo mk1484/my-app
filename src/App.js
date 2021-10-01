@@ -22,6 +22,7 @@ function App() {
         </a>
         <Btn />
         <Text color="blue" message="お元気ですか？" />
+        <Text color="blue">お元気ですか？</Text>
       </header>
     </div>
   );
