@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Btn from './Btn';
 import Text from './Text';
+import CountupBtn from './CountupBtn';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         >
           Learn React
         </a>
+        <CountupBtn />
         <Btn />
         <Text color="blue" message="お元気ですか？" />
         <Text color="blue">お元気ですか？</Text>
