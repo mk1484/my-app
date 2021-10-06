@@ -3,6 +3,7 @@ import './App.css';
 import Btn from './Btn';
 import Text from './Text';
 import CountupBtn from './CountupBtn';
+import Alert from './Alert';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         >
           Learn React
         </a>
+        <Alert />
         <CountupBtn />
         <Btn />
         <Text color="blue" message="お元気ですか？" />
