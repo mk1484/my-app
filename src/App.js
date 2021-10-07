@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Btn from './Btn';
 import Text from './Text';
-import CountupBtn from './CountupBtn';
+import CountupBtn from './components/CountupBtn';
 import Alert from './Alert';
 
 
