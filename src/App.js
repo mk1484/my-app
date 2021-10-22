@@ -4,6 +4,7 @@ import Btn from './Btn';
 import Text from './Text';
 import CountupBtn from './components/CountupBtn';
 import Alert from './Alert';
+import EditName from './components/EditName';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         >
           Learn React
         </a>
+        <EditName />
         <Alert />
         <CountupBtn />
         <Btn />
